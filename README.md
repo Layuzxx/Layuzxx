@@ -92,25 +92,35 @@
 
 ---
 
-  <h2 align="center">📊 Estadísticas de GitHub</h2>
-  <p>Un vistazo a mis contribuciones y estadísticas en GitHub. Esta sección muestra un resumen de mi actividad, los lenguajes que más utilizo y la progresión de mi trabajo en la plataforma. ¡Siempre aprendiendo y codificando!</p>
-  <a href="https://github.com/Layuz">
-    <img src="https://github-readme-stats.vercel.app/api?username=Layuz&show_icons=true&theme=radical" alt="Yeiner Valencia Martínez's GitHub Stats">
-  </a>
-  <a href="https://github.com/Layuz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layuz&layout=compact&theme=radical" alt="Top Langs">
-  </a>
-
----
-
   <h2 align="center">🏆 Mis Certificados</h2>
   <p>Aquí se encuentran algunos de los certificados más relevantes que he obtenido, reflejando mi compromiso constante con el aprendizaje continuo y la validación de mis habilidades técnicas en diversas áreas del desarrollo de software. Estos reconocimientos son una prueba de mi dedicación y esfuerzo.</p>
-  <ul>
-    <li>**[[Nombre del Certificado 1]]** - [[Plataforma/Institución]] (<a href="[[https://enlace-a-tu-credencial.com/certificado1]]">Ver Credencial</a>)</li>
-    <li>**[[Nombre del Certificado 2]]** - [[Plataforma/Institución]] (<a href="[[https://enlace-a-tu-credencial.com/certificado2]]">Ver Credencial</a>)</li>
-    <li>**[[Nombre del Certificado 3]]** - [[Plataforma/Institución]] (<a href="[[https://enlace-a-tu-credencial.com/certificado3]]">Ver Credencial</a>)</li>
-    <small>*Si tienes muchos, considera enlazar a un perfil donde estén todos, como LinkedIn o una plataforma de certificados.*</small>
-  </ul>
+  <table align="center">
+    <thead>
+      <tr>
+        <th align="left">Nombre del Certificado</th>
+        <th align="left">Ver Credencial</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Python Programming Fundamentals</td>
+        <td><a href="https://coursera.org/share/6c8b2d0bd95c4fc5aa957b2c972f2dda" target="_blank">Ver Credencial</a></td>
+      </tr>
+      <tr>
+        <td>Data Analysis and Visualization with Python</td>
+        <td><a href="https://coursera.org/share/4d1d7b2b40cc31b83c666a08bc9b884c" target="_blank">Ver Credencial</a></td>
+      </tr>
+      <tr>
+        <td>Python Essentials 1</td>
+        <td><a href="https://www.credly.com/badges/59e28d4a-c6bc-4d72-b422-27a1dbea7ba1/public_url" target="_blank">Ver Credencial</a></td>
+      </tr>
+      <tr>
+        <td>HTML Essentials</td>
+        <td><a href="https://www.credly.com/badges/e246eecf-d7cd-4ad5-83f7-c772787d7ea8/public_url" target="_blank">Ver Credencial</a></td>
+      </tr>
+    </tbody>
+  </table>
+  <small>*Si tienes muchos, considera enlazar a un perfil donde estén todos, como LinkedIn o una plataforma de certificados (aunque con esta tabla, ya quedan muy bien presentados).*</small>
 
 ---
 
