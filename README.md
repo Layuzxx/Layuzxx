@@ -20,6 +20,38 @@
 
 ---
 
+  <h2 align="center">✨ Frase Inspiradora</h2>
+  <p align="center">
+    "El único límite es aquel que te pones a ti mismo."
+  </p>
+
+---
+
+  <h2 align="center">🗣️ Idiomas</h2>
+  <p>Mi comunicación se desenvuelve fluidamente en los siguientes idiomas:</p>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://flagcdn.com/w80/co.png" alt="Bandera de Colombia" width="50"><br>
+        Español
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/w80/us.png" alt="Bandera de Estados Unidos" width="50"><br>
+        Inglés
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Nativo</td>
+      <td align="center">A1</td>
+    </tr>
+    <tr>
+      <td align="center"><small>+1 Mes</small></td>
+      <td align="center"><small>+1 Mes</small></td>
+    </tr>
+  </table>
+
+---
+
   <h2 align="center">🛠️ Mis Habilidades Técnicas</h2>
   <p>Aquí te presento un resumen de las tecnologías y herramientas con las que trabajo, representadas visualmente. Estoy comprometido con la mejora continua y la adopción de nuevas tecnologías.</p>
 
@@ -121,6 +153,34 @@
     </tbody>
   </table>
   <small>*Si tienes muchos, considera enlazar a un perfil donde estén todos, como LinkedIn o una plataforma de certificados (aunque con esta tabla, ya quedan muy bien presentados).*</small>
+
+---
+
+  <h2 align="center">🌱 Aprendiendo y Explorando</h2>
+    <p>Actualmente estoy profundizando mis conocimientos en las siguientes tecnologías y herramientas. ¡Siempre en busca de nuevos desafíos y aprendizajes!</p>
+    <table align="center">
+        <tr>
+            <td align="center">
+                <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" width="50"></a>
+            </td>
+            <td align="center">
+                <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50"></a>
+            </td>
+            <td align="center">
+                <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50"></a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">React</td>
+            <td align="center">Node.js</td>
+            <td align="center">Figma</td>
+        </tr>
+        <tr>
+            <td align="center"><small>+1 Mes</small></td>
+            <td align="center"><small>+1 Mes</small></td>
+            <td align="center"><small>+1 Mes</small></td>
+        </tr>
+    </table>
 
 ---
 
