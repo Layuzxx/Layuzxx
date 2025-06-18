@@ -1,21 +1,21 @@
 <div align="justify">
-  <h1 align="center">¡Hola a todos! 👋 Soy **Yeiner Valencia Martínez**</h1>
+  <h1 align="center">¡Hola a todos! 👋 Soy Yeiner Valencia Martínez</h1>
   <h3 align="center">Estudiante de Ingeniería de Software | Desarrollador Front-End | Aprendiz Constante</h3>
 
 ---
 
   <h2 align="center">🚀 Sobre Mí</h2>
   <p>
-    ¡Bienvenidos a mi rincón digital en GitHub! Me llamo **Yeiner Valencia Martínez**, tengo 18 años y soy un apasionado **estudiante de Ingeniería de Software** de segundo semestre en Colombia. Mi viaje en el desarrollo de software comenzó con el deseo de transformar ideas complejas en soluciones funcionales y accesibles, y desde entonces, no he parado de aprender y crecer en este fascinante campo.
+    ¡Bienvenidos a mi rincón digital en GitHub! Me llamo Yeiner Valencia Martínez (Layuz), tengo 18 años y soy un apasionado estudiante de Ingeniería de Software de segundo semestre en Colombia. Mi viaje en el desarrollo de software comenzó con el deseo de transformar ideas complejas en soluciones funcionales y accesibles, y desde entonces, no he parado de aprender y crecer en este fascinante campo.
   </p>
   <p>
-    Actualmente, me estoy especializando en el campo del **Front-End**, donde ya cuento con 1 mes de experiencia activa, enfocado en **la creación de interfaces de usuario intuitivas y atractivas, así como en la optimización del rendimiento de aplicaciones web**. Mi meta a largo plazo es dominar diversas ramas de la programación, incluyendo roles de alta demanda como **Full-Stack, Inteligencia Artificial (IA), Ciencia de Datos (Data Science), y Ciberseguridad**. Cada proyecto es una oportunidad para aplicar mis habilidades en **resolución de problemas** y **diseño de sistemas robustos**, siempre buscando la excelencia y la innovación.
+    Actualmente, me estoy especializando en el campo del Front-End, donde ya cuento con 1 mes de experiencia activa, enfocado en la creación de interfaces de usuario intuitivas y atractivas, así como en la optimización del rendimiento de aplicaciones web. Mi meta a largo plazo es dominar diversas ramas de la programación, incluyendo roles de alta demanda como Full-Stack, Inteligencia Artificial (IA), Ciencia de Datos (Data Science), y Ciberseguridad**. Cada proyecto es una oportunidad para aplicar mis habilidades en **resolución de problemas y diseño de sistemas robustos, siempre buscando la excelencia y la innovación.
   </p>
   <p>
-    Más allá del código, disfruto **explorando las últimas tendencias en tecnología, participando en comunidades de desarrollo locales y dedicando tiempo a la lectura de ciencia ficción para inspirar la creatividad y el pensamiento innovador**. Estoy convencido de que la colaboración y el aprendizaje continuo son pilares fundamentales en nuestra profesión, y me entusiasma la posibilidad de conectar con otros desarrolladores y entusiastas para compartir conocimientos y construir proyectos impactantes juntos. ¡Espero que encuentres algo interesante en mis repositorios!
+    Más allá del código, disfruto explorando las últimas tendencias en tecnología, participando en comunidades de desarrollo locales y dedicando tiempo a la lectura de ciencia ficción para inspirar la creatividad y el pensamiento innovador. Estoy convencido de que la colaboración y el aprendizaje continuo son pilares fundamentales en nuestra profesión, y me entusiasma la posibilidad de conectar con otros desarrolladores y entusiastas para compartir conocimientos y construir proyectos impactantes juntos. ¡Espero que encuentres algo interesante en mis repositorios!
   </p>
   <ul>
-    <li>📍 Vivo en: **Medellín, Colombia**</li>
+    <li>📍 Vivo en: Medellín, Colombia</li>
   </ul>
 
 ---
@@ -45,7 +45,7 @@
       <td align="center">A1</td>
     </tr>
     <tr>
-      <td align="center"><small>+1 Mes</small></td>
+      <td align="center"><small>Nativo</small></td>
       <td align="center"><small>+1 Mes</small></td>
     </tr>
   </table>
@@ -152,7 +152,6 @@
       </tr>
     </tbody>
   </table>
-  <small>*Si tienes muchos, considera enlazar a un perfil donde estén todos, como LinkedIn o una plataforma de certificados (aunque con esta tabla, ya quedan muy bien presentados).*</small>
 
 ---
 
@@ -188,19 +187,19 @@
   <p>Estoy siempre abierto a explorar nuevas oportunidades, colaborar en proyectos interesantes o simplemente charlar sobre las últimas tendencias y desafíos en el emocionante mundo de la tecnología. Si te interesa mi trabajo o tienes alguna propuesta, ¡no dudes en ponerte en contacto!</p>
   <p align="center">
     <a href="https://www.linkedin.com/in/yeiner-valencia-martinez-ab5254359/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
     </a>
-    <a href="mailto:valenciamartinezyeiner@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="mailto:yeinervm06@hotmail.com" target="_blank">
+    &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:yeinervm06@hotmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:valenciamartinezyeiner@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
     </a>
   </p>
 
 ---
 
   <p align="center">
-    Hecho con ❤️ por **Yeiner Valencia Martínez**
+    Hecho con ❤️ por Yeiner Valencia Martínez (Layuz)
   </p>
 </div>
